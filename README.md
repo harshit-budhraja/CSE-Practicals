@@ -26,7 +26,7 @@ List of Courses:-<br>
 * A simple binary search program using the concepts of recursion - [`binarysearch.c`]
 * Heap Sort - [`heapsort.cpp`]
 * Quick Sort - [`quicksort.c`]
-* [Lab Exam-#1](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Algorithms/Lab%20Exam-#1)
+* [Lab Exam-#1](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Algorithms/Lab%20Exam-%231)
 
 ## [Data Structures](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Data%20Structures)
 
