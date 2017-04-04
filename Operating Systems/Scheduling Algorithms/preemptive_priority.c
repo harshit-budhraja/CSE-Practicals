@@ -22,6 +22,7 @@
 * Higher priority is with a higher integer value.
 * P[5] > P[1].
 *
+* Sample Input Answer:- 10.33 seconds and 7.5 seconds
 *
 * Author:- Harshit Budhraja
 * Date:- 04/04/2017
