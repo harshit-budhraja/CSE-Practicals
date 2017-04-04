@@ -1,8 +1,10 @@
 /*
-* PROGRAM  fork-01.c                                               
+* PROGRAM  fork-01.c                                              
 * This program illustrates the use of fork() and getpid() system
 * calls.  Note that write() is used instead of printf() since  
-* getpid() is buffered while fork() is not. 
+* getpid() is buffered while fork() is not.
+* Author:- Harshit Budhraja
+* Date:- 04/04/2017 
 */
 
 #include<stdio.h>
