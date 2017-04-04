@@ -21,6 +21,13 @@ List of Courses:-<br>
 
 ## [Design and Analysis of Algorithms](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Algorithms)
 
+* Algorithm to rearrange the given array in a way that the elements smaller or equal to the given **pivot** element occurs before it and the elements greater than it occur after it - [`rearrange.c`]
+* Given start times and finish times of 'N' lectures, design an algorithm to output the minimum number of classrooms needed to efficiently schedule these classes without any clashes - [`classroom_scheduling.c`]
+* A simple binary search program using the concepts of recursion - [`binarysearch.c`]
+* Heap Sort - [`heapsort.cpp`]
+* Quick Sort - [`quicksort.c`]
+* [Lab Exam-#1](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Algorithms/Lab%20Exam-#1)
+
 ## [Data Structures](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Data%20Structures)
 
 * Operations on a stack - [`stack.c`]
