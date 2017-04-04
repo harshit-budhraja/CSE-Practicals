@@ -13,6 +13,7 @@ List of Courses:-<br>
 
 * [System Calls](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Operating%20Systems/System%20Calls)
 * [Shell Scripts](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Operating%20Systems/Shell%20Scripts)
+* [Process Scheduling Algorithms](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Operating%20Systems/Scheduling%20Algorithms)
 
 ## [Computer Architecture](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Computer%20Architecture)
 
