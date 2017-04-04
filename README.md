@@ -23,5 +23,5 @@ List of Courses:-<br>
 
 ## [Data Structures](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Data%20Structures)
 
-* Operations on a stack - `stack.c`
-* Converting an INFIX expression to a POSTFIX expression - `infix_to_postfix.c`
+* Operations on a stack - [`stack.c`]
+* Converting an INFIX expression to a POSTFIX expression - [`infix_to_postfix.c`]
