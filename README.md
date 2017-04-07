@@ -27,6 +27,7 @@ List of Courses:-<br>
 * Heap Sort - [`heapsort.cpp`]
 * Quick Sort - [`quicksort.c`]
 * [Lab Exam-#1](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Algorithms/Lab%20Exam-%231)
+* To implement a UNION FIND data structure using linked list representation - [`union-find-linked.c`]
 
 ## [Data Structures](https://github.com/harshitbudhraja/CSE-Practicals/tree/master/Data%20Structures)
 
