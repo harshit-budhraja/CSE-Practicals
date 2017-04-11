@@ -43,10 +43,6 @@ struct Process
 	int iscompleted;
 };
 
-
-// The circular queue implementation for the Ready queue of the incoming/arriving processes
-int ready_queue[MAXQ];
-
 // Iterators for the ready queue
 int head=-1, tail=-1;
 
@@ -124,6 +120,10 @@ int main(void)
 	// IO Operations
 	printf("N=> ");
 	scanf("%d",&N);
+	
+	// The circular queue implementation for the Ready queue of the incoming/arriving processes
+	// In case of circular queues, we don't need more than N
+	int ready_queue[N];
 	
 	// Instantiate the structure with 'N' number of processes
 	struct Process P[N+1];
