@@ -32,6 +32,10 @@
 
 int Q=0;	// Time quantum for scheduling
 
+// The circular queue implementation for the Ready queue of the incoming/arriving processes
+// In case of circular queues, we don't need more than N
+int ready_queue[MAXQ];
+
 // Structure Definition
 struct Process
 {
@@ -120,10 +124,6 @@ int main(void)
 	// IO Operations
 	printf("N=> ");
 	scanf("%d",&N);
-	
-	// The circular queue implementation for the Ready queue of the incoming/arriving processes
-	// In case of circular queues, we don't need more than N
-	int ready_queue[N];
 	
 	// Instantiate the structure with 'N' number of processes
 	struct Process P[N+1];
