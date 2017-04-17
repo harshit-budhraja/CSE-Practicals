@@ -28,13 +28,13 @@ struct Element
 struct List *make_set(int x)
 {	
 	// Creating the element
-	struct Element ptr=(struct Element *)malloc(sizeof(struct Element));
+	struct Element *ptr=(struct Element *)malloc(sizeof(struct Element));
 	ptr->value=x;
 	ptr->next=NULL;
 	ptr->rep=ptr;
 	
 	// Appending it to a list
-	struct List L=(struct List *)malloc(sizeof(struct List));
+	struct List *L=(struct List *)malloc(sizeof(struct List));
 	if(L==NULL)
 	{	
 		L->size++;
